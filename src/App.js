@@ -5,7 +5,7 @@ import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 import { BiMailSend } from "react-icons/bi";
 
-const Api_Url = "https://www.omdbapi.com/?apikey=e43a1676";
+const Api_Url = "https://www.omdbapi.com/?apikey=*******";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
